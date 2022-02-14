@@ -106,5 +106,5 @@ new analysis took less time to run. Attached is a Resource folder with screensho
 
 The process of Refactoring helps make our code more organized. Some of the advantages from a cleaner code include software and design
 improvement, faster programming , and debugging. It becomes easier to read. 
-Disadvantages from Refactoring is related to the eextencion for the application that we are inquiring.
+Disadvantages from Refactoring is related to the extension for the application that we are inquiring.
 
